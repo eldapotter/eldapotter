@@ -2,7 +2,7 @@
 - 👀 I’m interested in software development
 - 🌱 I’m currently learning Web and mobile app development
 - 💞️ I’m looking to collaborate on apps built for the Web or mobile devices
-- 📫 How to reach me via [LinkedIn](https://www.linkedin.com/in/eldapotterba/)
+- 📫 [How to reach me via LinkedIn](https://www.linkedin.com/in/eldapotterba/)
 
 <!---
 eldapotter/eldapotter is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
