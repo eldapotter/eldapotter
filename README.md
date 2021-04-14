@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @eldapotter
-- 👀 I’m interested in software development
-- 🌱 I’m currently learning Web and mobile app development
-- 💞️ I’m looking to collaborate on apps built for the Web or mobile devices
-- 📫 [How to reach me](https://www.linkedin.com/in/eldapotterba/)
+- 👀 I’m interested in application design, development and marketing
+- 🌱 I’m currently learning Wix Web Development
+- 💞️ I’m looking to collaborate on Wix Web Development
+- 📫 [How to reach me](mailto:epotterfl@gmail.com)
 
 <!---
 eldapotter/eldapotter is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
