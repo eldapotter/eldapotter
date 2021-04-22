@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @eldapotter
-- 👀 I’m interested in mobile and full-stack web app development
-- 🌱 I’m currently learning iOS, Android and Velo web development
-- 💞️ I’m looking to collaborate on Velo web development projects
-- 📫 How to reach me
+- 👀 I’m interested in Web development and mobile developement
+- 🌱 I’m currently learning Velo by Wix
+- 💞️ I’m looking to collaborate on JavaScript and Swift programming projects
+- 📫 [How to reach me](mailto:eldapotterii@gmail.com)
 
 <!---
 eldapotter/eldapotter is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
