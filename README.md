@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @eldapotter
-- 👀 I’m interested in everything about Computer Science
-- 🌱 I’m currently learning full-stack web development
-- 💞️ I’m looking to collaborate on computer software developement
+- 👀 I’m interested in JavaScript programming
+- 🌱 I’m currently learning how to utilize Velo by Wix to build web applications
+- 💞️ I’m looking to collaborate with other full-stack JavaScript developers to develop a web application
 - 📫 How to reach me: [Email](mailto:eldapotterii@gmail.com)
 
 <!---
