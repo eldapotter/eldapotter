@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @eldapotter
-- 👀 I’m interested in JavaScript programming
-- 🌱 I’m currently learning how to utilize Velo by Wix to build web applications
-- 💞️ I’m looking to collaborate with other full-stack JavaScript developers to develop web applications
+- 👀 I’m interested in software engineering
+- 🌱 I’m currently learning how make websites users will love
+- 💞️ I’m looking to collaborate with the other IT interns at MAZ
 - 📫 How to reach me: [Email](mailto:eldapotterii@gmail.com)
 
 <!---
