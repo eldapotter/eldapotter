@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @eldapotter
-- 👀 I’m interested in software engineering
-- 🌱 I’m currently learning how make websites users will love
-- 💞️ I’m looking to collaborate with the other IT interns at MAZ
-- 📫 How to reach me: [Email](mailto:eldapotterii@gmail.com)
+- 👀 I’m interested in computing
+- 🌱 I’m currently learning software development
+- 📫 How to reach me: [Linked In](https://www.linkedin.com/in/eldapotter/)
 
 <!---
 eldapotter/eldapotter is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
