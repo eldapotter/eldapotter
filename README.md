@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @eldapotter
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning to code in the JavaScript programming language
-- 💞️ I’m looking to collaborate with others in the coding and documentation of apps
+- 💞️ I’m looking to collaborate with others in the coding and documentation of web applications
 - 📫 How to reach me on [Linked In](https://www.linkedin.com/in/eldapotter/)
 
 <!---
