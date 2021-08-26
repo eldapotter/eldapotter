@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @eldapotter
-- 👀 I’m interested in creating apps
-- 🌱 I’m currently learning how to create web apps with Wix (Velo by Wix) and mobile apps with Swift (iOS)
-- 💞️ I’m looking to collaborate with others in the coding and documentation of apps
-- 📫 How to reach me [eldapotterii@gmail.com](mailto:eldapotterii@gmail.com)
+- 👀 I’m interested in iOS
+- 🌱 I’m currently learning UIKit and SwiftUI
+- 📫 How to reach me at [eldapotterii@gmail.com](mailto:eldapotterii@gmail.com)
 
 <!---
 eldapotter/eldapotter is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
